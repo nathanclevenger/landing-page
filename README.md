@@ -2,7 +2,7 @@
 
 First, [create a new project from this template](https://github.com/nathanclevenger/landing-page/generate) to create your site.
 
-Then, customize the `_config.yaml`:
+Then, customize the [`_config.yaml`](/_config.yaml):
 
 ```yaml
 remote_theme: nathanclevenger/landing
