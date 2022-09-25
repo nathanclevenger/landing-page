@@ -12,4 +12,4 @@ name: Landing.Page.as
 description: Get your idea launched in seconds with simplest and most easy-to-use landing page template you've ever worked with.
 ```
 
-Finally, go to GitHub Pages in the repo settings, to enable GitHub Pages publishing, and add a CNAME to get a custom domain running.
+Finally, go to [GitHub Pages in the repo settings](./settings/pages), to enable GitHub Pages publishing, and add a CNAME to get a custom domain running.
