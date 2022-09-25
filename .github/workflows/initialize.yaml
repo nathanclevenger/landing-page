@@ -28,6 +28,9 @@ jobs:
       - run: rm -rf .github/workflows/initialize.yaml
         shell: bash
         
+      - run: rm -rf LICENSE
+        shell: bash
+        
 #       - name: Is this still a template
 #         id: is_template
 #         run: echo "::set-output name=is_template::$(ls .github/template.yaml &> /dev/null && echo true || echo false)"
