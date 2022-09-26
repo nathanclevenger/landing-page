@@ -1,4 +1,4 @@
-# [Landing Page Template](https://github.com/nathanclevenger/landing-page/generate)
+# [Landing Page Template](https://github.com/nathanclevenger/landing-page/generate) from [Landing.Page.as](https://landing.page.as)
 
 First, [create a new project from this template](https://github.com/nathanclevenger/landing-page/generate) to create your site.
 
